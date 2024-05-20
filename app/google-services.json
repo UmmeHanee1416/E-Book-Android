@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "204681261475",
+    "project_id": "book-app-firebase-a5f16",
+    "storage_bucket": "book-app-firebase-a5f16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204681261475:android:a92247825dcf8c7ad9ea16",
+        "android_client_info": {
+          "package_name": "com.example.bookappfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk3r5D_0KjJrLjrH6RwC5Zf10NH1AEnkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
